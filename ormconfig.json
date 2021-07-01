@@ -1,0 +1,8 @@
+{
+  "type": "mongodb",
+  "database": "",
+  "url": "",
+  "logging": false,
+  "entities": ["dist/product/product.js"],
+  "synchronize": true
+}
