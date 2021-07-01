@@ -1,7 +1,7 @@
 {
   "type": "mongodb",
-  "database": "",
-  "url": "",
+  "database": "products-db",
+  "url": "mongodb+srv://admin:admin@123@products.jm3mz.mongodb.net/products-db?retryWrites=true&w=majority",
   "logging": false,
   "entities": ["dist/product/product.js"],
   "synchronize": true
